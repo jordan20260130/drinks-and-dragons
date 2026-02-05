@@ -121,4 +121,4 @@ This is the **level 5** version of the Fire Genasi Evocation Wizard. At this lev
 - **Sculpt Spells** protects up to 4 creatures on a 3rd-level spell
 - Missing **Empowered Evocation** (level 10 feature) — evocation spells don't yet add INT modifier to damage
 
-Compare to the [level 10 version](fire-genasi-evoker-lvl10.md) for full progression.
+Compare to the [level 10 version](dnd_fire-genasi-evoker-lvl10.md) for full progression.
